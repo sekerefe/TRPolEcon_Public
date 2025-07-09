@@ -1,3 +1,12 @@
+## Basic Information about the Datest
+**The Turkish Political Economy Biographical Dataset**
+[Python Code and Visualisation](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/biographical_library_info.ipynb)
+**The Turkish Political Economy Bibliographical Library** [Python Code and Visualisation] [Tableau]
+**The Turkish Political Economy Library of Passages** [Python Code and Visualisation] [Tableau]
+**The Turkish Political Economy Deep Research Library** [Python Code and Visualisation] [Tableau]
+**The Turkish Political Economy Timeline of Events** [Python Code and Visualisation] [Tableau]
+**The Turkish Political Economy Schools and Departments Directory** [Python Code and Visualisation] [Tableau]
+
 ## Charts and Graphs
 **Sex Distribution** 
 [[Python Code]](https://github.com/sekerefe/TRPolecon/blob/main/visualizations_code/sex_distribution.py) [[Python Visualization]](https://github.com/sekerefe/TRPolecon/blob/main/visualizations_output/sex_distribution_pie_chart.png) [[Tableau Public]](https://public.tableau.com/views/TheTurkishPoliticalEconomyDatabase-SexDistribution/TheTurkishPoliticalEconomyDatabase-SexDistribution?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
