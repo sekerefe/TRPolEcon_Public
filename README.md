@@ -10,6 +10,8 @@ _The Turkish Political Economy Database_ is a digital humanities project that do
 
 Our approach combines traditional archival research with cutting-edge tools, including large language models (LLMs), to generate AI-supported essays that undergo rigorous human review. The project aims to create an openly accessible, searchable platform for researchers interested in Turkish economic history, political economy, and digital historiography.
 
+Our research findings are currently under review and will be published in _The Palgrave Encyclopaedia of Turkish Economists and Economics_ in 2026, with the full project scheduled for completion in 2031. _The Palgrave Encyclopaedia of Turkish Economists and Economics_ is a digital humanities project that documents over 700 economists, translators, and thinkers who have shaped economic thought in the Ottoman Empire and the Republic of Türkiye since the 1800s. Drawing from _The Turkish Political Economy Database, from the 1800s to Date_, the project curates detailed biographical, bibliographical, and textual data, using AI tools for analysis and essay generation. _The Palgrave Encyclopaedia of Turkish Economists and Economics_ includes contributions from Turkish and non-Turkish scholars, practitioners, and policymakers. AI-assisted tools and large language models, are employed to summarise, visualise, and interpret historical data. Final entries undergo rigorous human review to ensure academic integrity and accuracy. The project not only enhances understanding of Türkiye’s intellectual history of economics but also demonstrates the potential of computational methods and AI tools in historical research.
+
 ---
 
 ## Project Objectives
@@ -19,6 +21,19 @@ Our approach combines traditional archival research with cutting-edge tools, inc
 - Use AI-assisted tools (e.g., ChatGPT, Claude, NotebookLM) to generate summaries and essays.
 - Publish interactive visualisations and searchable entries.
 - Provide open access to data, code, and documentation for scholarly reuse.
+
+---
+
+## Available Datasets
+
+Datasets withing the Database include:
+
+- **The Turkish Political Economy Biographical Library** is a dataset where we compile biographical information on economists, authors, and influential figures who shaped Ottoman and Turkish economies from the 1800s to the present,
+- **The Turkish Political Economy Bibliographical Library** is a dataset where we compile bibliographical information on the authors who we cover in the Turkish Political Economy Biographical Library,
+- **The Turkish Political Economy Library of Passages** is a dataset containing translated economic excerpts from significant economists' publications. When complete, this dataset will serve as an anthology of economic writings from the Ottoman Empire and the Republic of Türkiye,
+- **The Turkish Political Economy Deep Research Library** is a dataset that uses major AI tools such as Gemini and Perplexity to analyze economists' contributions and create biographical summaries. This dataset provides AI-generated life stories of selected authors,
+- **The Turkish Political Economy Timeline of Events** is a dataset that chronicles major events, including significant publications and political developments since the 1800s,
+- **The Turkish Political Economy Schools and Departments Directory** is a dataset containing a list of institutions that have offered economics courses. This directory tracks the historical development of economics education in Turkish institutions from the Ottoman era to modern times.
 
 ---
 
@@ -77,7 +92,7 @@ Upon project completion, the data, essays, tools, and visualisations will be mad
 
 ## Citation
 
-Yalçıntaş, A., Kızılyurt, Ö., Başaran, V., Tok, A. Voyvoda, N., Gelmedi, Ş., Bal, E., Kasap, O. (n.d.). *The Turkish Political Economy Database, from the 1800s to Date*. Retrieved from Github [https://github.com/sekerefe/TRPolecon]
+Yalçıntaş, A., Kızılyurt, Ö., Başaran, V., Tok, A. Voyvoda, N., Gelmedi, Ş., Bal, E., Kasap, O. (n.d.). *The Turkish Political Economy Database, from the 1800s to Date*. Retrieved from Github [https://github.com/sekerefe/TRPolEcon_Public]
 
 ---
 
