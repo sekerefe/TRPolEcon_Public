@@ -12,7 +12,7 @@
 [Python Code] [Python Visualization] [[Tableau Public]](https://public.tableau.com/views/MappingofDoctoralDegrees-TheTurkishPoliticalEconomyDatabase/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Word Cloud of AI Summaries** 
-[[Python Code and Visualisation]](https://github.com/sekerefe/TRPolecon/blob/main/visualizations_output/ai_summary_wordcloud.png](https://github.com/sekerefe/TRPolEcon_Public/blob/main/ai_word_cloud.ipynb) [Tableau Public]
+[[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/ai_word_cloud.ipynb) [Tableau Public]
 
 **Network Map of Authors and Institutions** 
 [Python Code and Visualisation] [[Graph Commons]](https://graphcommons.com/graphs/803e84ac-062d-48ec-b0f2-816fc529f01d)
