@@ -53,7 +53,7 @@
 
 **A List of Scholars Who Were Born in the Lost Ottoman Territories** [Python Code and Visualisation] [Tableau]
 
-**A List of Non-Ottoman and Non-Turkish Scholars** [[Python Code]](https://github.com/sekerefe/TRPolecon/blob/main/visualizations_code/non-turkish_non-ottoman.py) [[Python Visualization]](https://github.com/sekerefe/TRPolecon/blob/main/visualizations_output/non-turkish_non-ottoman.md) [Tableau Public]
+**A List of Non-Ottoman and Non-Turkish Scholars** [[Python Code and Visualisations]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/non-ottoman_non-turkish.ipynb) [Tableau Public]
 
 **A List of Non-Muslim Ottoman Scholars** [Python Code and Visualisation] [Tableau]
 
