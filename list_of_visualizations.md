@@ -1,6 +1,6 @@
-## Basic Information about the Datest
+## Basic Information about the Datesets
 **The Turkish Political Economy Biographical Dataset**
-[Python Code and Visualisation](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/biographical_library_info.ipynb)
+[[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/biographical_library_info.ipynb)
 
 **The Turkish Political Economy Bibliographical Library** [Python Code and Visualisation] [Tableau]
 
