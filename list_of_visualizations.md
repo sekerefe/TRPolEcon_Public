@@ -51,7 +51,7 @@
 **A Sample List of 10 Authors** 
 [[Python Code]](https://github.com/sekerefe/TRPolecon/blob/main/visualizations_code/sample_list_of_authors.py) [[Python Visualization]](https://github.com/sekerefe/TRPolecon/blob/main/visualizations_output/sample_authors_list.md) [Tableau Public]
 
-**A List of Female Scholars** [[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/female_authors.ipynb) [Tableau Public]
+**A List of Female Scholars** [[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/female_authors.ipynb) [Tableau Public]
 
 **A List of Scholars Who Were Born in the Lost Ottoman Territories** [Python Code and Visualisation] [Tableau]
 
