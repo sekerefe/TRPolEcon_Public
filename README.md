@@ -76,6 +76,12 @@ These tools augment traditional historiographic methods and enable novel forms o
 
 ---
 
+## AI Historian
+
+[AI Historian](https://chatgpt.com/g/g-vlyY4pSY2-ai-historian) is a custom-built artificial intelligence assistant developed for the Turkish Political Economy Database, from the 1800s to Date. AI Historian uses Open AI’s large language model and the available structured datasets (see above) to explore the history of economic ideas in the Ottoman Empire and the Republic of Türkiye. It is instructed to deliver factual and ethically responsible answers by analysing curated biographical records and bibliographic sources. It contributes to the historical reconstruction and the digital preservation of Türkiye’s economic thought.
+
+---
+
 ## Significance
 
 This project contributes to:
