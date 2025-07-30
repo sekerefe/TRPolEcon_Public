@@ -1,16 +1,24 @@
-## Basic Information about the Datesets
+## Available Datesets
 **The Turkish Political Economy Biographical Dataset**
 [[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/biographical_library_info.ipynb) [Notion]
 
-**The Turkish Political Economy Bibliographical Library** [Python Code and Visualisation] [Tableau] [Notion]
+**The Turkish Political Economy Bibliographical Library** [Python Code and Visualisation] [Tableau] [[Zotero]](https://www.zotero.org/groups/4746295/the_turkish_political_economy_bibliographical_library/library)
 
-**The Turkish Political Economy Library of Passages** [Python Code and Visualisation] [Tableau] [Notion]
+**The Turkish Political Economy Library of Passages** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/The-Turkish-Political-Economy-Library-of-Passages-198a7dbe40468094b6b2e61d33ee3ffc)
 
-**The Turkish Political Economy Deep Research Library** [Python Code and Visualisation] [Tableau] [Notion]
+**The Turkish Political Economy Deep Research Library** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/217a7dbe404680ea971fd8f53de4071a?v=217a7dbe4046805fb275000c4bc70b9b)
 
-**The Turkish Political Economy Timeline of Events** [Python Code and Visualisation] [Tableau] [Notion]
+**The Turkish Political Economy Timeline of Events** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/The-Turkish-Political-Economy-Timeline-of-Events-1a3a7dbe404680b98947e6f436875c32)
 
-**The Turkish Political Economy Schools and Departments Directory** [Python Code and Visualisation] [Tableau] [Notion]
+**The Turkish Political Economy Schools and Departments Directory** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/The-Turkish-Political-Economy-Schools-and-Departments-Directory-1a3a7dbe4046809db39cc3bdba9adca3)
+
+**The Turkish Political Economy List of Economics Courses and Lecturers (Where Available)** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/The-Turkish-Political-Economy-List-of-Economics-Courses-and-Lecturers-Where-Available-1a3a7dbe404680c38c03e798fa0b105d)
+
+**The Turkish Political Economy Periodicals Library** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/The-Turkish-Political-Economy-Periodicals-in-Economics-1a3a7dbe404680a2aa5ed6be0316d243)
+
+**The Turkish Political Economy Index of Institutions** [Python code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/The-Turkish-Political-Economy-Index-of-Institutions-1a3a7dbe4046804f934dc10808818373)
+
+**The Turkish Political Economy Glossary** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/1a3a7dbe404680dc875df646e788d6e8?v=1a3a7dbe4046813bae86000c8db9cd73)
 
 ## Charts and Graphs
 **Sex Distribution** 
