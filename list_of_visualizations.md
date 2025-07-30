@@ -25,7 +25,15 @@
 [[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/sex_distribution.ipynb) [[Tableau Public]](https://public.tableau.com/views/TheTurkishPoliticalEconomyDatabase-SexDistribution/TheTurkishPoliticalEconomyDatabase-SexDistribution?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) [[Notion]](https://www.notion.so/176a7dbe40468068a5abeeab46390c0b?v=017c32a7f047461aa15a122028660028&source=copy_link)
 
 **Nationality Distribution** 
-[[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/nationality_distribution.ipynb) [[Tableau Public]](https://public.tableau.com/views/TheTurkishPoliticalEconomyDatabaseWorkbook-NationalityDistribution/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) [Notion]
+[[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/nationality_distribution.ipynb) [[Tableau Public]](https://public.tableau.com/views/TheTurkishPoliticalEconomyDatabaseWorkbook-NationalityDistribution/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) [[Notion]](https://www.notion.so/17ca7dbe404680c38ec0f33ff11c781a?v=ce37c547fe314d95973eae306bcbc0f6&source=copy_link)
+
+**Language Distribution (Publications)** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe404680edb0c0c9436f4df552?v=05f8ed0a7f324da6ba475f228056474e)
+
+**Language Distribution (Doctoral Theses)** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe404680edb0c0c9436f4df552?v=176a7dbe404680a79ae4000ca3861c4f)
+
+**Language Distribution (Autobiographies)** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe404680edb0c0c9436f4df552?v=176a7dbe404680dfbd46000c4e9ae4d6)
+
+**Language Distribution (Doçentlik / Habilitation Theses)** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe404680edb0c0c9436f4df552?v=176a7dbe4046807daed2000cc032e086)
 
 **Sankey Chart of Institutions** 
 [Python Code] [Python Visualization] [[Tableau Public Image File]](https://public.tableau.com/views/SankeyChart_17518183484840/SankeyChart-TheTurkishPoliticalEconomyDatabase?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
@@ -39,21 +47,29 @@
 **Network Map of Authors and Institutions** 
 [Python Code and Visualisation] [[Graph Commons]](https://graphcommons.com/graphs/803e84ac-062d-48ec-b0f2-816fc529f01d)
 
-**Bar Chart of Doctoral Degrees** (Country-City) [\[Python Code and Visualisation\]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/ai_word_cloud.ipynb) [Tableau] [Notion]
+**Bar Chart of Doctoral Degrees (Country)** [Python Code and Visualisation\] [Tableau] [[Notion]]*https://well-ozraraptor-5a0.notion.site/176a7dbe40468061b868d07239b1bccb?v=176a7dbe40468092aa6d000c1c41c677
 
-**Bar Chart of Undergraduate Degrees** (Country-City) [Python Code and Visualisation] [Tableau] [Notion]
+**Bar Chart of Master's Degrees (Country)** [Python Code and Visualisation] [Tableau] [[Notion]]*https://well-ozraraptor-5a0.notion.site/176a7dbe40468061b868d07239b1bccb?v=176a7dbe404680b28d42000ca041406a
 
-**Bar Chart of Habilitation Institutions** (Country-City) [Python Code and Visualisation] [Tableau] [Notion]
+**Bar Chart of Undergraduate Degrees (Country)** [Python Code and Visualisation] [Tableau] [[Notion]]*https://well-ozraraptor-5a0.notion.site/176a7dbe40468061b868d07239b1bccb?v=080ee5ece4734bfa9195e157617ae7c3
 
-**Bar Chart of Doctoral Degrees (Institution)** [Python Code and Visualisation] [Tableau] [Notion]
+**Bar Chart of Doctoral Degrees (City)** [Python Code and Visualisation\] [Tableau] [[Notion]]*https://well-ozraraptor-5a0.notion.site/176a7dbe4046801c9437c02cb3e5a440?v=176a7dbe40468069ae95000c56ed3975
 
-**Bar Chart of Undergraduate Degrees (Institution)** [Python Code and Visualisation] [Tableau] [Notion]
+**Bar Chart of Master's Degrees (City)** [Python Code and Visualisation] [Tableau] [[Notion]]*https://well-ozraraptor-5a0.notion.site/176a7dbe4046801c9437c02cb3e5a440?v=176a7dbe404680378c14000cf4696873
 
-**Bar Chart of Habilitation Institutions (Institution)** [Python Code and Visualisation] [Tableau] [Notion]
+**Bar Chart of Undergraduate Degrees (City)** [Python Code and Visualisation] [Tableau] [[Notion]]*https://well-ozraraptor-5a0.notion.site/176a7dbe4046801c9437c02cb3e5a440?v=d55b833592014d75bdd080180f58c0aa
 
-**Bar Chart of Darulfünun, Rüştiye, and İdadi** [Python Code and Visualisation] [Tableau] [Notion]
+**Bar Chart of Doctoral Degrees (Institution)** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe40468010b10aff97ff216daa?v=176a7dbe404680d980ac000cc3c6046d)
 
-**Languages of Publications, Theses, and Autobiographies** [Python Code and Visualisation] [Tableau] [Notion]
+**Bar Chart of Undergraduate Degrees (Institution)** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe40468010b10aff97ff216daa?v=5ce14511ac5647c8baff40c4d66bcaa7)
+
+**Bar Chart of Master's Institutions (Institution)** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe40468010b10aff97ff216daa?v=176a7dbe404680d1ad12000c035ae1e2)
+
+**Bar Chart of Habilitation Institutions (Institution)** [Python Code and Visualisation] [Tableau] [[Notion]]
+
+**Bar Chart of Darulfünun** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/1dea7dbe404680179c71d62be5179fbd?v=1dea7dbe4046809e9320000c1647ccc4)
+
+**Bar Chart of Medrese, Rüştiye, and İdadi** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/1dea7dbe40468033950bc3a2103b903a?v=1dea7dbe40468047bc66000c87be9365)
 
 ## Tabulations
 
