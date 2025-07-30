@@ -14,7 +14,7 @@
 
 ## Charts and Graphs
 **Sex Distribution** 
-[[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/sex_distribution.ipynb) [[Tableau Public]](https://public.tableau.com/views/TheTurkishPoliticalEconomyDatabase-SexDistribution/TheTurkishPoliticalEconomyDatabase-SexDistribution?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/sex_distribution.ipynb) [[Tableau Public]](https://public.tableau.com/views/TheTurkishPoliticalEconomyDatabase-SexDistribution/TheTurkishPoliticalEconomyDatabase-SexDistribution?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) [Notion]
 
 **Nationality Distribution** 
 [[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/nationality_distribution.ipynb) [[Tableau Public]](https://public.tableau.com/views/TheTurkishPoliticalEconomyDatabaseWorkbook-NationalityDistribution/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
