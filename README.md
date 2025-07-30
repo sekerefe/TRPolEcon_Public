@@ -2,7 +2,7 @@
 
 **Project Lead:** Altuğ Yalçıntaş, Ankara University  
 **ORCID:** [0000-0002-3344-0497](https://orcid.org/0000-0002-3344-0497)  
-**Contributors:** Özgür Kızılyurt, Vural Başaran, Alaaddin Tok, Neşe Voyvoda, Şebnem Gelmedi, Ekin Bal, Orçun Kasap 
+**Active Research Team:** Özgür Kızılyurt, Vural Başaran, Alaaddin Tok, Neşe Voyvoda, Şebnem Gelmedi, Ekin Bal, Orçun Kasap
 **Keywords:** Turkish economic ideas, digital humanities, AI-assisted historical research
 ## Abstract
 
