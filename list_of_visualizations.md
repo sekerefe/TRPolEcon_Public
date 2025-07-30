@@ -47,17 +47,17 @@
 **Network Map of Authors and Institutions** 
 [Python Code and Visualisation] [[Graph Commons]](https://graphcommons.com/graphs/803e84ac-062d-48ec-b0f2-816fc529f01d)
 
-**Bar Chart of Doctoral Degrees (Country)** [Python Code and Visualisation\] [Tableau] [[Notion]]*https://well-ozraraptor-5a0.notion.site/176a7dbe40468061b868d07239b1bccb?v=176a7dbe40468092aa6d000c1c41c677
+**Bar Chart of Doctoral Degrees (Country)** [Python Code and Visualisation\] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe40468061b868d07239b1bccb?v=176a7dbe40468092aa6d000c1c41c677)
 
-**Bar Chart of Master's Degrees (Country)** [Python Code and Visualisation] [Tableau] [[Notion]]*https://well-ozraraptor-5a0.notion.site/176a7dbe40468061b868d07239b1bccb?v=176a7dbe404680b28d42000ca041406a
+**Bar Chart of Master's Degrees (Country)** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe40468061b868d07239b1bccb?v=176a7dbe404680b28d42000ca041406a)
 
-**Bar Chart of Undergraduate Degrees (Country)** [Python Code and Visualisation] [Tableau] [[Notion]]*https://well-ozraraptor-5a0.notion.site/176a7dbe40468061b868d07239b1bccb?v=080ee5ece4734bfa9195e157617ae7c3
+**Bar Chart of Undergraduate Degrees (Country)** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe40468061b868d07239b1bccb?v=080ee5ece4734bfa9195e157617ae7c3)
 
-**Bar Chart of Doctoral Degrees (City)** [Python Code and Visualisation\] [Tableau] [[Notion]]*https://well-ozraraptor-5a0.notion.site/176a7dbe4046801c9437c02cb3e5a440?v=176a7dbe40468069ae95000c56ed3975
+**Bar Chart of Doctoral Degrees (City)** [Python Code and Visualisation\] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe4046801c9437c02cb3e5a440?v=176a7dbe40468069ae95000c56ed3975)
 
-**Bar Chart of Master's Degrees (City)** [Python Code and Visualisation] [Tableau] [[Notion]]*https://well-ozraraptor-5a0.notion.site/176a7dbe4046801c9437c02cb3e5a440?v=176a7dbe404680378c14000cf4696873
+**Bar Chart of Master's Degrees (City)** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe4046801c9437c02cb3e5a440?v=176a7dbe404680378c14000cf4696873)
 
-**Bar Chart of Undergraduate Degrees (City)** [Python Code and Visualisation] [Tableau] [[Notion]]*https://well-ozraraptor-5a0.notion.site/176a7dbe4046801c9437c02cb3e5a440?v=d55b833592014d75bdd080180f58c0aa
+**Bar Chart of Undergraduate Degrees (City)** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe4046801c9437c02cb3e5a440?v=d55b833592014d75bdd080180f58c0aa)
 
 **Bar Chart of Doctoral Degrees (Institution)** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe40468010b10aff97ff216daa?v=176a7dbe404680d980ac000cc3c6046d)
 
@@ -75,30 +75,18 @@
 
 **A List of Female Scholars** [[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/female_authors.ipynb) [Tableau Public] [Notion]
 
-**A List of Scholars Who Were Born in the Lost Ottoman Territories** [Python Code and Visualisation] [Tableau] [Notion]
-
 **A List of Non-Ottoman and Non-Turkish Scholars** [[Python Code and Visualisations]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/non-ottoman_non-turkish.ipynb) [Tableau Public] [Notion]
 
 **A List of Non-Muslim Ottoman Scholars** [Python Code and Visualisation] [Tableau] [Notion]
 
-**A list of Undergraduate Degrees in Economics and Related Fields** [Python Code and Visualisation] [Tableau] [Notion]
+**A list of Undergraduate Degrees in Economics and Related Fields** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/TABLE-1-Scholars-with-Undergraduate-Degrees-e285becc73af4311a18ef1f51f2e7511)
 
-**A List of Master's Theses in Economics and Related Fields** [Python Code and Visualisation] [Tableau] [Notion]
+**A List of Master's Theses in Economics and Related Fields** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/TABLE-2-Scholars-with-Master-s-Degrees-38a25102cb5e4ac7ba30ce1ba19f7736)
 
-**A List of Scholars with Doctoral Degrees in Economics and Related Fields** [Python Code and Visualisation] [Tableau] [Notion]
+**A List of Scholars with Doctoral Degrees in Economics and Related Fields** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/TABLE-4-Scholars-with-Doctoral-Degrees-988972893214490cb4ba5d215d46c3b8)
 
-**A List of Doctoral Theses in Economics and Related Fields** [Python Code and Visualisation] [Tableau] [Notion]
+**A List of Doctoral Theses in Economics and Related Fields** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/TABLE-5-Doctoral-Thesis-Titles-f8f1df968e1c4f9daec40b2cecf2da57)
 
-**A List of Doctoral Supervisors** [Python Code and Visualisation] [Tableau] [Notion]
+**A List of Doctoral Supervisors** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/TABLE-6-Doctoral-Supervisors-9442d4156e1b4c059ad9f8a459078e4a)
 
-**A List of Habilitation Theses** [Python Code and Visualisation] [Tableau] [Notion]
-
-**A List of Economics Courses at Mektebi Mülkiye (İstanbul)** [Python Code and Visualisation] [Tableau] [Notion]
-
-**A list of Economics Courses at Mektebi Mülkiye (Ankara)** [Python Code and Visualisation] [Tableau] [Notion]
-
-**A List of Economics Courses at İstanbul University** [Python Code and Visualisation] [Tableau] [Notion]
-
-**A List of Periodicals in Economics, 1928 to date** [Python Code and Visualisation] [Tableau] [Notion]
-
-**A List of Schools and Departments Where Economics is Taught as a Subject** [Python Code and Visualisation] [Tableau] [Notion]
+**A List of Habilitation Theses** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/TABLE-7-Scholars-with-Do-entlik-Habilitation-a4199a6a923942cea418a9c32ac472de)
