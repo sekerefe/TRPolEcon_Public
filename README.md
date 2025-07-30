@@ -2,8 +2,8 @@
 
 **Project Lead:** Altuğ Yalçıntaş, Ankara University  
 **ORCID:** [0000-0002-3344-0497](https://orcid.org/0000-0002-3344-0497)  
-**Active Research Team:** Özgür Kızılyurt, Vural Başaran, Alaaddin Tok, Neşe Voyvoda, Şebnem Gelmedi, Ekin Bal, Orçun Kasap
-**Keywords:** Turkish economic ideas, digital humanities, AI-assisted historical research
+**Active Research Team:** Özgür Kızılyurt, Vural Başaran, Alaaddin Tok, Neşe Voyvoda, Şebnem Gelmedi, Ekin Bal, Orçun Kasap    **Keywords:** Turkish economic ideas, digital humanities, AI-assisted historical research
+
 ## Abstract
 
 _The Turkish Political Economy Database_ is a digital humanities project that documents over 700 economists, translators, and thinkers who have contributed to the development of economic thought in the Republic of Türkiye and the Ottoman Empire from the 1800s to the present. This project integrates human and AI-assisted methodologies to curate, analyse, and narrate rich biographical and bibliographical data.
@@ -34,6 +34,10 @@ Datasets withing the Database include:
 - **The Turkish Political Economy Deep Research Library** is a dataset that uses major AI tools such as Gemini and Perplexity to analyze economists' contributions and create biographical summaries. This dataset provides AI-generated life stories of selected authors,
 - **The Turkish Political Economy Timeline of Events** is a dataset that chronicles major events, including significant publications and political developments since the 1800s,
 - **The Turkish Political Economy Schools and Departments Directory** is a dataset containing a list of institutions that have offered economics courses. This directory tracks the historical development of economics education in Turkish institutions from the Ottoman era to modern times.
+- **The Turkish Political Economy List of Economics Courses and Lecturers (Where Available)** is a dataset cataloging economics courses offered throughout the Ottoman Empire and the Republic of Türkiye. The dataset includes lecturer names when available and provides source citations for all entries.
+- **The Turkish Political Economy Periodicals Library** is a catalog of economics periodicals published since the 1850s, including their publication years. Full source citations accompany all entries. 
+- **The Turkish Political Economy Index of Institutions** is a dataset containing the names of a selection of institutions mentioned in this project. A brief description of each institution is also provided.
+- **The Turkish Political Economy Glossary** is a specialized dictionary of terms unique to Ottoman Turkish and Modern Turkish economic discourse. This resource is designed for international readers unfamiliar with Türkiye's institutional history and specialized terminology.
 
 ---
 
@@ -56,7 +60,7 @@ This project employs digital humanities techniques including:
 - **Data curation:** over 80 metadata fields per author (e.g., education, publications, nationality),
 - **AI-assisted summarisation and essay writing,** using LLMs such as ChatGPT, Gemini, and Claude,
 - **Document digitisation and archival work** (scanning and transcribing sources),
-- **Data visualisation and mapping,** available interactively on Github and Tableau,
+- **Data visualisation and mapping,** available interactively on Github, Tableau, Notion, and Graph Commons
 - **Human-in-the-loop editorial process** to verify all AI-generated content for scholarly rigour.
 
 Each entry is derived from structured data and enriched with narrative elements, references, and visual data. Biographical essays are supported by textual sources, citations, and metadata exports.
@@ -92,13 +96,6 @@ This project contributes to:
 - Offering a replicable model for AI-assisted historical scholarship in non-Western contexts.
 
 Upon project completion, the data, essays, tools, and visualisations will be made fully open-access to support research, teaching, and reuse.
-
-
----
-
-## Citation
-
-Yalçıntaş, A., Kızılyurt, Ö., Başaran, V., Tok, A. Voyvoda, N., Gelmedi, Ş., Bal, E., Kasap, O. (n.d.). *The Turkish Political Economy Database, from the 1800s to Date*. Retrieved from Github [https://github.com/sekerefe/TRPolEcon_Public]
 
 ---
 

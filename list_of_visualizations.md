@@ -42,10 +42,10 @@
 [Python Code] [Python Visualization] [[Tableau Public]](https://public.tableau.com/views/MappingofDoctoralDegrees-TheTurkishPoliticalEconomyDatabase/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Word Cloud of AI Summaries** 
-[[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/ai_word_cloud.ipynb) [Tableau Public]
+[[Python Code and Visualisation]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/ai_word_cloud.ipynb) [Tableau Public]
 
 **Network Map of Authors and Institutions** 
-[Python Code and Visualisation] [[Graph Commons]](https://graphcommons.com/graphs/803e84ac-062d-48ec-b0f2-816fc529f01d)
+[Python Code and Visualisation] [[Graph Commons]](https://graphcommons.com/graphs/324a7e1c-b75a-4138-96fd-947aa5f1ed84)
 
 **Bar Chart of Doctoral Degrees (Country)** [Python Code and Visualisation\] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/176a7dbe40468061b868d07239b1bccb?v=176a7dbe40468092aa6d000c1c41c677)
 
