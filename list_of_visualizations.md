@@ -77,9 +77,7 @@
 
 **A List of Non-Ottoman and Non-Turkish Scholars** [[Python Code and Visualisations]](https://github.com/sekerefe/TRPolEcon_Public/blob/main/jupyter_files_of_visualisations/non-ottoman_non-turkish.ipynb) [Tableau Public] [Notion]
 
-**A List of Non-Muslim Ottoman Scholars** [Python Code and Visualisation] [Tableau] [Notion]
-
-**A list of Undergraduate Degrees in Economics and Related Fields** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/TABLE-1-Scholars-with-Undergraduate-Degrees-e285becc73af4311a18ef1f51f2e7511)
+**A List of Undergraduate Degrees in Economics and Related Fields** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/TABLE-1-Scholars-with-Undergraduate-Degrees-e285becc73af4311a18ef1f51f2e7511)
 
 **A List of Master's Theses in Economics and Related Fields** [Python Code and Visualisation] [Tableau] [[Notion]](https://well-ozraraptor-5a0.notion.site/TABLE-2-Scholars-with-Master-s-Degrees-38a25102cb5e4ac7ba30ce1ba19f7736)
 
