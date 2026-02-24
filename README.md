@@ -6,13 +6,13 @@
 
 ## Abstract
 
-[_The Turkish Political Economy Database, from the 1800s to Date_(https://trpolecon.notion.site/) is a digital humanities project that documents over 700 economists, translators, and thinkers who have contributed to the development of economic thought in the Republic of Türkiye and the Ottoman Empire from the 1800s to the present. This project integrates human and AI-assisted methodologies to curate, analyse, and narrate rich biographical and bibliographical data.
+[_The Turkish Political Economy Database, from the 1800s to Date_](https://trpolecon.notion.site/) is a digital humanities project that documents over 700 economists, translators, and thinkers who have contributed to the development of economic thought in the Republic of Türkiye and the Ottoman Empire from the 1800s to the present. This project integrates human and AI-assisted methodologies to curate, analyse, and narrate rich biographical and bibliographical data.
 
 Our approach combines traditional archival research with cutting-edge tools, including large language models (LLMs), to generate AI-supported essays that undergo rigorous human review. The project aims to create an openly accessible, searchable platform for researchers interested in Turkish economic history, political economy, and digital historiography.
 
 Our research findings has been published in [_The Palgrave Encyclopaedia of Turkish Economists and Economics_](https://link.springer.com/referencework/10.1007/978-3-031-91225-2) since 2026, with the full project scheduled for completion in 2031. [_The Palgrave Encyclopaedia of Turkish Economists and Economics_](https://link.springer.com/referencework/10.1007/978-3-031-91225-2) documents over 700 economists, translators, and thinkers who have shaped economic thought in the Ottoman Empire and the Republic of Türkiye since the 1800s. Drawing from [_The Turkish Political Economy Database, from the 1800s to Date_](https://trpolecon.notion.site/), the project curates detailed biographical, bibliographical, and textual data, using AI tools for analysis and essay generation. [_The Palgrave Encyclopaedia of Turkish Economists and Economics_](https://link.springer.com/referencework/10.1007/978-3-031-91225-2) includes contributions from Turkish and non-Turkish scholars, practitioners, and policymakers. AI-assisted tools and large language models, are employed to summarise, visualise, and interpret historical data. Final entries undergo rigorous human review to ensure academic integrity and accuracy. The project not only enhances understanding of Türkiye’s intellectual history of economics but also demonstrates the potential of computational methods and AI tools in historical research.
 
-For data visualisations visit the Notion website [here](https://trpolecon.notion.site/)
+For a list of data visualisations [click here](https://github.com/sekerefe/TRPolEcon_Public/blob/main/list_of_visualizations.md)
 
 ---
 
